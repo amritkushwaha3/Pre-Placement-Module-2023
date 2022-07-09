@@ -4,7 +4,7 @@
 - University Roll No.: 1900290210026
 - Branch: EN
 - Section: A
-- Preferred Programming Language: C++/Java/Python
+- Preferred Programming Language: C++/Python
 
 ## Coding Profiles
 - LeetCode: [AMRIT_KUSHWAHA](https://leetcode.com/amritkushwaha3/)
